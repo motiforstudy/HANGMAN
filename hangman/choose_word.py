@@ -1,5 +1,5 @@
 from random import randint
-from data.words import words
+
 
 
 def choose_secret_word (words : list[str]) -> str:
